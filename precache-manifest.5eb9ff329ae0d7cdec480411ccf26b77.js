@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eb63af16d9cdfce110374a76de6e9e8",
+    "revision": "32ae9404177aebb70df3ca464c2e6d69",
     "url": "/QRScanTest/index.html"
   },
   {
-    "revision": "00e3ee762bc1ba7ee47a",
+    "revision": "2fc65b2b44f00da62cb9",
     "url": "/QRScanTest/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/QRScanTest/static/js/2.ac7ef5cc.chunk.js"
   },
   {
-    "revision": "00e3ee762bc1ba7ee47a",
-    "url": "/QRScanTest/static/js/main.7b536751.chunk.js"
+    "revision": "2fc65b2b44f00da62cb9",
+    "url": "/QRScanTest/static/js/main.e393f3a6.chunk.js"
   },
   {
     "revision": "8bf28b830f71253ac92e",
