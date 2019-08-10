@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QRScanTest/static/css/main.2cce8147.chunk.css",
-    "main.js": "/QRScanTest/static/js/main.e393f3a6.chunk.js",
-    "main.js.map": "/QRScanTest/static/js/main.e393f3a6.chunk.js.map",
+    "main.js": "/QRScanTest/static/js/main.73f43d99.chunk.js",
+    "main.js.map": "/QRScanTest/static/js/main.73f43d99.chunk.js.map",
     "runtime~main.js": "/QRScanTest/static/js/runtime~main.4c306b44.js",
     "runtime~main.js.map": "/QRScanTest/static/js/runtime~main.4c306b44.js.map",
-    "static/js/2.ac7ef5cc.chunk.js": "/QRScanTest/static/js/2.ac7ef5cc.chunk.js",
-    "static/js/2.ac7ef5cc.chunk.js.map": "/QRScanTest/static/js/2.ac7ef5cc.chunk.js.map",
+    "static/js/2.cec6b952.chunk.js": "/QRScanTest/static/js/2.cec6b952.chunk.js",
+    "static/js/2.cec6b952.chunk.js.map": "/QRScanTest/static/js/2.cec6b952.chunk.js.map",
     "index.html": "/QRScanTest/index.html",
-    "precache-manifest.5eb9ff329ae0d7cdec480411ccf26b77.js": "/QRScanTest/precache-manifest.5eb9ff329ae0d7cdec480411ccf26b77.js",
+    "precache-manifest.d571c9c59408fe5db2b1b6ee58a2e142.js": "/QRScanTest/precache-manifest.d571c9c59408fe5db2b1b6ee58a2e142.js",
     "service-worker.js": "/QRScanTest/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/QRScanTest/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/QRScanTest/static/media/logo.5d5d9eef.svg"
